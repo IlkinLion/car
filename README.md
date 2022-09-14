@@ -11,7 +11,7 @@
 I create with html, css and js file for Car. I use here html, css and js tags. 
 ## ## RULES OF USE
 
-> *STEP-1:* `https://github.com/IlkinLion/Ballon-Game.git` <br/>
+> *STEP-1:* `https://github.com/IlkinLion/car.git` <br/>
 > *STEP-2:*  enter the `Car` folder that appears <br/>
 > *STEP-3:*  open the folder you are in in a text editor <br/>
 > *STEP-4:*  run the  all the`index.html` files in the main folder <br/>
